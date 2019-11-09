@@ -22,7 +22,7 @@ using namespace SML::Mod;
 using namespace SML::Objects;
 
 #define SML_VERSION "1.0.2"
-#define MOD_NAME "Downsizing"
+#define MOD_NAME "DownsizeUpsize"
 
 #define LOG(msg) SML::Utility::infoMod(MOD_NAME, msg)
 #define INFO(msg) LOG(msg)
